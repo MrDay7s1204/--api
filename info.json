@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.5",
   "newFeatures": [
     "Demo line 1",
-    "Оновлено вибір кольорових схем та тем оформлення",
-    "Інтегровано покращений тактильний зворотний зв'язок (гаптику)"
+    "Demo line 2",
+    "If you are seeing this just ignore it its error 404 server not found"
   ]
 }
