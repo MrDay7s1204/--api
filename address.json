@@ -4,13 +4,13 @@
   "message_en": "Welcome! Today's service had ended. We look forward to seeing each one of you next Saturday!",
   "uk": {
     "address": "Pop Inn Cafe Shopping Centre, W Walk, Yate, Bristol BS37 4AX",
-    "service_on_saturday": true,
+    "service_on_saturday": false,
     "start_time": "10:00",
     "end_time": "13:00"
   },
   "en": {
     "address": "Pop Inn Cafe Shopping Centre, W Walk, Yate, Bristol BS37 4AX",
-    "service_on_saturday": true,
+    "service_on_saturday": false,
     "start_time": "10:00",
     "end_time": "13:00"
   }
