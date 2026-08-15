@@ -1,3 +1,18 @@
-{Pop Inn Cafe Shopping Centre, W Walk, Yate, Bristol BS37 4AX}
-
-{start time - (10:30AM) (GMT+1)}
+{
+  "last_updated": "2026-08-15T14:30:00Z",
+  "show_message": true,
+  "message_uk": "Вітаємо! Сьогоднішнє богослужіння розпочнеться о 10:00. Будемо раді бачити кожного з вас!",
+  "message_en": "Welcome! Today's service starts at 10:00 AM. We look forward to seeing each one of you!",
+  "uk": {
+    "address": "Pop Inn Cafe, 109 High St, Kingswood, Bristol BS15 4AA, UK",
+    "service_today": true,
+    "start_time": "10:00",
+    "end_time": "13:00"
+  },
+  "en": {
+    "address": "Pop Inn Cafe, 109 High St, Kingswood, Bristol BS15 4AA, UK",
+    "service_today": true,
+    "start_time": "10:00",
+    "end_time": "13:00"
+  }
+}
