@@ -1,7 +1,7 @@
 {
   "show_message": true,
-  "message_uk": "Вітаємо! Сьогоднішнє богослужіння розпочнеться о 10:00. Будемо раді бачити кожного з вас!",
-  "message_en": "Welcome! Today's service starts at 10:00 AM. We look forward to seeing each one of you!",
+  "message_uk": "Вітаємо! Сьогоднішнє богослужіння вже скінчилося. Будемо раді бачити вас наступної суботи!",
+  "message_en": "Welcome! Today's service had ended. We look forward to seeing each one of you next Saturday!",
   "uk": {
     "address": "Pop Inn Cafe Shopping Centre, W Walk, Yate, Bristol BS37 4AX",
     "service_on_saturday": true,
