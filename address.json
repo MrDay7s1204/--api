@@ -1,7 +1,7 @@
 {
   "show_message": true,
-  "message_uk": "Вітаємо! Зверніть увагу, що цієї суботи (22 серпня) богослужіння може не бути, оскільки ми їдемо до Бракнелла. Адреса з'явиться найближчими днями ближче до кінця тижня. Для отримання додаткових оновлень приєднуйтесь до нашої групи у WhatsApp: <a href=\"https://chat.whatsapp.com/GaDvNjYzqEQ8MRlst8VAv3\" target=\"_blank\">Приєднатися до WhatsApp</a>",
-  "message_en": "Welcome! Please note that this coming Saturday (August 22) there might not be a service as we are going to Bracknell. The address will appear shortly closer to the end of the week. For more updates, please join our WhatsApp group: <a href=\"https://chat.whatsapp.com/GaDvNjYzqEQ8MRlst8VAv3\" target=\"_blank\">Join WhatsApp Group</a>",
+  "message_uk": "Вітаємо! Зверніть увагу, що цієї суботи (22 серпня) богослужіння може не бути, оскільки ми їдемо до Бракнелла. Адреса з'явиться найближчими днями ближче до кінця тижня. Для отримання додаткових оновлень приєднуйтесь до нашої групи у WhatsApp.",
+  "message_en": "Welcome! Please note that this coming Saturday (August 22) there might not be a service as we are going to Bracknell. The address will appear shortly closer to the end of the week. For more updates, please join our WhatsApp group.",
   "uk": {
     "address": "Pop Inn Cafe Shopping Centre, W Walk, Yate, Bristol BS37 4AX",
     "service_on_saturday": false,
