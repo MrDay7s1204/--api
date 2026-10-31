@@ -1,7 +1,7 @@
 {
   "show_message": true,
-  "message_uk": "Вітаємо! Цієї суботи богослужіння проходитиме у звичайному режимі з 10:00 до 13:00 за нашою звичайною адресою. Запрошуємо всіх бажаючих! Для отримання додаткових оновлень приєднуйтесь calendar.sdabristolua.church.",
-  "message_en": "Welcome! This Saturday, service will run as normal from 10:00 to 13:00 at our usual address. Everyone is welcome! For more updates, please join calendar.sdabristolua.church.",
+  "message_uk": "Вітаємо! Цієї суботи богослужіння проходитиме з 10:00 до 13:00 за нашою звичайною адресою. Запрошуємо всіх бажаючих!",
+  "message_en": "Welcome! This Saturday, service will run as normal from 10:00 to 13:00 at our usual address. Everyone is welcome!",
   "uk": {
     "address": "Pop Inn Cafe Shopping Centre, W Walk, Yate, Bristol BS37 4AX",
     "service_on_saturday": true,
