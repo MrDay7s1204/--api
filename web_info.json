@@ -45,7 +45,7 @@
   },
   {
     "name": "maintanence_mode",
-    "link": "yes",
+    "link": "no",
     "messege": "Website is Down"
   },
   {
