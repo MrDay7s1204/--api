@@ -45,8 +45,8 @@
   },
   {
     "name": "maintanence_mode",
-    "link": "yes",
-    "messege": "Idk 😐"
+    "link": "no",
+    "messege": "Messenge here"
   },
   {
     "name": "error_mode",
