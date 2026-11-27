@@ -1,13 +1,56 @@
 [
-  {"name": "Facebook", "link": "https://www.facebook.com/people/Sda-Bristol/"},
-  {"name": "Instagram", "link": "https://www.instagram.com/sda_ua_church_bristol"},
-  {"name": "WhatsApp Group", "link": "https://chat.whatsapp.com/H08TfV7j7gj45fiCGEUZnR"},
-  {"name": "Powered By V Framework", "link": "https://vf-studio.pp.ua/"},
-  {"name": "Adventist Church (Ukraine)", "link": "https://adventist.ua/"},
-  {"name": "Adventist Church (UK)", "link": "https://adventist.uk/"},
-  {"name": "WhatsApp Contact_Vasyl", "link": "https://wa.me/447780666994"},
-  {"name": "WhatsApp Contact_Viktor", "link": "https://wa.me/447724388552"},
-  {"name": "Phone_Vasyl", "link": "tel:+447780666994"},
-  {"name": "Phone_Viktor", "link": "tel:+447724388552"},
-  {"name": "maintanence_mode", "link": "yes" ,  "messege": "Website is Down"}
+  {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/people/Sda-Bristol/"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/sda_ua_church_bristol"
+  },
+  {
+    "name": "WhatsApp Group",
+    "link": "https://chat.whatsapp.com/H08TfV7j7gj45fiCGEUZnR"
+  },
+  {
+    "name": "Powered By V Framework",
+    "link": "https://vf-studio.pp.ua/"
+  },
+  {
+    "name": "Adventist Church (Ukraine)",
+    "link": "https://adventist.ua/"
+  },
+  {
+    "name": "Adventist Church (UK)",
+    "link": "https://adventist.uk/"
+  },
+  {
+    "name": "WhatsApp Contact_Vasyl",
+    "link": "https://wa.me/447780666994"
+  },
+  {
+    "name": "WhatsApp Contact_Viktor",
+    "link": "https://wa.me/447724388552"
+  },
+  {
+    "name": "Phone_Vasyl",
+    "link": "tel:+447780666994"
+  },
+  {
+    "name": "Phone_Viktor",
+    "link": "tel:+447724388552"
+  },
+  {
+    "name": "Address data source",
+    "link": "https://raw.githubusercontent.com/MrDay7s1204/--api/refs/heads/main/address.json"
+  },
+  {
+    "name": "maintanence_mode",
+    "link": "no",
+    "messege": "Website is Down"
+  },
+  {
+    "name": "error_mode",
+    "link": "no",
+    "messege": "Internal server error"
+  }
 ]
