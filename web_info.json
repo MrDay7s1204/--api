@@ -50,7 +50,7 @@
   },
   {
     "name": "error_mode",
-    "link": "yes",
+    "link": "no",
     "messege": "Internal server error 11"
   }
 ]
